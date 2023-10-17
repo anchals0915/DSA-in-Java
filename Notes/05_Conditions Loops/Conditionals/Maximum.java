@@ -10,6 +10,7 @@ public class Maximum {
         int b = sc.nextInt();
         int c = sc.nextInt();
 
+        // if Statement
 //        int max = a;
 //        if (b > max) {
 //            max = b;
@@ -18,6 +19,7 @@ public class Maximum {
 //            max = c;
 //        }
 
+        // if-else statement
 //        int max = 0;
 //        if (a > b) {
 //            max = a;
